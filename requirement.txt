@@ -1,0 +1,9 @@
+pandas 
+numpy
+scikit-learn
+pymysql
+python-dotenv
+
+psycopg2-binary
+sqlalchemy
+# -e .
