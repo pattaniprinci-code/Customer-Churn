@@ -17,8 +17,8 @@ def read_sql_data():
             df = pd.DataFrame(result.fetchall(), columns=result.keys())
 
         print(df.head())
-
-        logger.logging.info("sample data", df.head)
+        print('Data read successfully')
+        logger.logging.info(f"sample data :- {df.head}")
         return df
 
     except Exception as e:
