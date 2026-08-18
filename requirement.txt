@@ -3,6 +3,8 @@ numpy
 scikit-learn
 pymysql
 python-dotenv
+matplotlib 
+seaborn 
 
 psycopg2-binary
 sqlalchemy
