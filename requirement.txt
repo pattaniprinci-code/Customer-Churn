@@ -5,6 +5,10 @@ pymysql
 python-dotenv
 matplotlib 
 seaborn 
+xgboost
+
+streamlit
+
 
 psycopg2-binary
 sqlalchemy
